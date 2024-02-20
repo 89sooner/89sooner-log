@@ -6,7 +6,7 @@ const CONFIG = {
     role: "software developer",
     bio: "한화시스템 ICT 개발자",
     email: "slrttt2001@naver.com",
-    linkedin: "www.linkedin.com/in/순호-김-44723712a",
+    linkedin: "https://www.linkedin.com/in/순호-김-44723712a",
     github: "https://github.com/89sooner/",
     instagram: "",
   },
