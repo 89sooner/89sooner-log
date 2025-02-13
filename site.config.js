@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Software Engineer",
     bio: "at Samsung Electronics",
     email: "slrttt2001@naver.com",
-    linkedin: "https://www.linkedin.com/in/순호-김-44723712a",
+    linkedin: "www.linkedin.com/in/89sooner",
     github: "89sooner",
     instagram: "",
   },
