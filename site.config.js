@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Software Engineer",
     bio: "at Samsung Electronics",
     email: "slrttt2001@naver.com",
-    linkedin: "www.linkedin.com/in/89sooner",
+    linkedin: "89sooner",
     github: "89sooner",
     instagram: "",
   },
